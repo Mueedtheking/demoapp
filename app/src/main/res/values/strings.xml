@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="home">HOME</string>
+    <string name="album_id">Id :</string>
+    <string name="album_title">Title :</string>
+    <string name="album_userid">User Id :</string>
+    <string name="no_value">N/A</string>
+
+</resources>

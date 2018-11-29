@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="view_padding_small">5dp</dimen>
+    <dimen name="view_padding_smaller">3dp</dimen>
+    <dimen name="view_padding_medium">10dp</dimen>
+    <dimen name="view_padding_large">15dp</dimen>
+    <dimen name="view_padding_larger">22dp</dimen>
+    <dimen name="coin_circle">30dp</dimen>
+    <dimen name="like_btn_size">25dp</dimen>
+    <dimen name="text_size_small">9sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_mediumlarge">14sp</dimen>
+    <dimen name="text_size_large">15sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+
+</resources>
